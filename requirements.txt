@@ -1,0 +1,8 @@
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.23.0
+statsmodels==0.14.2
+XlsxWriter==3.2.0
+kaleido==0.2.1
+openpyxl==3.1.2
